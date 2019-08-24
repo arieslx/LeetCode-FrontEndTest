@@ -1,0 +1,34 @@
+ul {
+    padding-inline-start: 0px;
+}
+
+ul > li {
+    list-style: none;
+}
+
+.inputStyle {
+    margin-top: 50px;
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid #e2e2e2;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.suggestions {
+    width: 500px;
+    margin: 5px auto;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #e1e1e1;
+}
+
+.blue {
+    padding: 10px;
+    background: #00e0fd33;
+}
+.none {
+    padding: 10px;
+    background: transparent;
+}
